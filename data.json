@@ -1,0 +1,102 @@
+[
+  {
+    "game": "dddd",
+    "ratings": {
+      "social": 3.55,
+      "financial": 4.95,
+      "psychological": 0.42,
+      "religious": 3.04,
+      "moral": 1.8
+    }
+  },
+  {
+    "game": "و",
+    "ratings": {
+      "social": 1.54,
+      "financial": 2.71,
+      "psychological": 2.1,
+      "religious": 2.93,
+      "moral": 3.74
+    }
+  },
+  {
+    "game": "وو",
+    "ratings": {
+      "social": 0.88,
+      "financial": 2.64,
+      "psychological": 4.05,
+      "religious": 0.9,
+      "moral": 2.46
+    }
+  },
+  {
+    "game": "وور",
+    "ratings": {
+      "social": 4.01,
+      "financial": 3.46,
+      "psychological": 2.88,
+      "religious": 2.72,
+      "moral": 1.14
+    }
+  },
+  {
+    "game": "وول",
+    "ratings": {
+      "social": 0.63,
+      "financial": 2.61,
+      "psychological": 0.01,
+      "religious": 1.57,
+      "moral": 0.83
+    }
+  },
+  {
+    "game": "وولس",
+    "ratings": {
+      "social": 3.42,
+      "financial": 3.46,
+      "psychological": 4.26,
+      "religious": 1.45,
+      "moral": 0.85
+    }
+  },
+  {
+    "game": "وولست",
+    "ratings": {
+      "social": 3.17,
+      "financial": 4.11,
+      "psychological": 4.41,
+      "religious": 3.37,
+      "moral": 4.17
+    }
+  },
+  {
+    "game": "وولستر",
+    "ratings": {
+      "social": 4.65,
+      "financial": 3.52,
+      "psychological": 1.62,
+      "religious": 4.82,
+      "moral": 0.06
+    }
+  },
+  {
+    "game": "وولستري",
+    "ratings": {
+      "social": 2.06,
+      "financial": 4.55,
+      "psychological": 0.63,
+      "religious": 0.18,
+      "moral": 0.38
+    }
+  },
+  {
+    "game": "وولستريت",
+    "ratings": {
+      "social": 2.69,
+      "financial": 4.42,
+      "psychological": 2.4,
+      "religious": 3.42,
+      "moral": 3.59
+    }
+  }
+]
