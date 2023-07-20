@@ -1,0 +1,114 @@
+[
+  {
+    "game": "Fortnite",
+    "childAge": "11",
+    "ratings": {
+      "gameName": "Fortnite",
+      "platform": "Windows, macOS, Xbox, PS4, Nintendo Switch, iOS, Android",
+      "decription": "لعبة الأدوار الكمال والمغامرات المنتظرين ، الذين يخوضون المعركة بين الأشخاص لانتصارهم باحتراف تكتيكات التصدي والتكتيكات الجديدة.",
+      "social": 3,
+      "religious": 2,
+      "financial": 3,
+      "moral": 2,
+      "psychological": 4
+    }
+  },
+  {
+    "game": "Fortnite",
+    "childAge": "7",
+    "ratings": {
+      "gameName": "Fortnite",
+      "platform": "Mobile, Windows, PlayStation, Nintendo Switch, MacOS",
+      "decription": "يَكشف فورتنايت عن دور جديد في الوضع الحربي الذي يعيشه أصحاب ال؟يكسبوكس، وَبطاقات تشبث المستخدمين المختلفين بفروع من مكان أخر في هذا العالمرمزية، والتي لديها أنواع مختلفة من التحديات المختصة التي يجب أن يقوم بالاطلاع عليها و التخلص منها.",
+      "social": 4,
+      "religious": 1,
+      "financial": 4,
+      "moral": 2,
+      "psychological": 3
+    }
+  },
+  {
+    "game": "Ffia",
+    "childAge": "7",
+    "ratings": {
+      "gameName": "Ffia",
+      "platform": "Nintendo Switch",
+      "decription": "يعتبر لعبة Ffia من الألعاب القتالية المسلية التي تمثل الأحداث والشخصيات الأساسية من حلقة الأنمي الأصلية الشهيرة.",
+      "social": 4,
+      "religious": 4,
+      "financial": 4,
+      "moral": 3,
+      "psychological": 4
+    }
+  },
+  {
+    "game": "FIFA",
+    "childAge": "7",
+    "ratings": {
+      "gameName": "FIFA",
+      "platform": "Xbox, Playstation, PC",
+      "decription": "لعبة FIFA هي لعبة الكرة الأهلية القائمة على محاكاة فعالة للألعاب الحقيقية. يوفر اللعبة تجربة اللعبة عبر ألعاب بين أصحاب الشركات وسادة اللعبة التكنولوجيا.",
+      "social": 5,
+      "religious": 4,
+      "financial": 4,
+      "moral": 5,
+      "psychological": 5
+    }
+  },
+  {
+    "game": "FIFA 21",
+    "childAge": "7",
+    "ratings": {
+      "gameName": "FIFA 21",
+      "platform": "Multiple (PlayStation, Xbox, PC, Nintendo)",
+      "decription": "لعبة FIFA 21 هي الإصدار الأخير من الإصدار المعروف الأكثر شعبية من فيفا للألعاب. انها الإصدار الأول من الإصدارات الواسعة النطاق الذي حزمه بتطوير وخواص الحياة الحقيقية وعمليات الكرة المصطنعة للعبة.",
+      "social": 3,
+      "religious": 4,
+      "financial": 2,
+      "moral": 4,
+      "psychological": 3
+    }
+  },
+  {
+    "game": "Fifa 21",
+    "childAge": "8",
+    "ratings": {
+      "gameName": "Fifa 21",
+      "platform": "PC, PlayStation 4, Xbox Series X/S, PlayStation 5, Xbox One, Google Stadia",
+      "decription": "فيفا 21 هي لعبة كرة القدم الشهيرة التي يمكن لللاعبين المحاكاة لأندية كرة القدم الشهيرة وإجراء المباريات الحقيقية.",
+      "social": 4,
+      "religious": 4,
+      "financial": 4,
+      "moral": 4,
+      "psychological": 4
+    }
+  },
+  {
+    "game": "FIFA 20",
+    "childAge": "8",
+    "ratings": {
+      "gameName": "FIFA 20",
+      "platform": "PlayStation 4, Xbox One, Nintendo Switch, Microsoft Windows, Stadia",
+      "decription": "FIFA 20 هو الإصدار الأحدث من سلسلة فيفا الشهيرة من العاب الكرة الأولى. ويتيح لللاعب فرصاً كثيرة مثل الذهاب من مستوى لآخر والتساعد في الحصول على نجوم والنجاح الذي يتتبعه ال,-لمعاناة ف العالم حربياً روعة",
+      "social": 5,
+      "religious": 4,
+      "financial": 4,
+      "moral": 4,
+      "psychological": 5
+    }
+  },
+  {
+    "game": "Fifa 19",
+    "childAge": "8",
+    "ratings": {
+      "gameName": "Fifa 19",
+      "platform": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+      "decription": "FIFA 19 هو الإصدار الأخير من فيفا، الوحيد والأكثر شعبية في عالم اللعبة الشهيرة. في FIFA 19، استمتع بمجموعة متغيرة من وضعيات المباريات والمتعددة، فضلا عن تحدي الحرة بين اللاعبين عبر الإنترنت.",
+      "social": 3,
+      "religious": 4,
+      "financial": 3,
+      "moral": 4,
+      "psychological": 4
+    }
+  }
+]
