@@ -93,7 +93,7 @@ export async function GET(request) {
   const gameName = searchParams.get("gameName");
   const childAge = searchParams.get("childAge");
 
-  const filePath = path.join(process.cwd(), "src/data.json");
+  const filePath = path.join(process.cwd(), "public/data.json");
   const rawData = fs.readFileSync(filePath);
   const games = JSON.parse(rawData.toString());
 

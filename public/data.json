@@ -110,5 +110,19 @@
       "moral": 4,
       "psychological": 4
     }
+  },
+  {
+    "game": "Disney",
+    "childAge": "7",
+    "ratings": {
+      "gameName": "Disney",
+      "platform": "Multiple",
+      "decription": "ديزني هو التجارة الكبرى المتعددة التي تتضمن الأفلام، المصمم الأزياء، المنتجات التحفيزية المختلفة، وبرامج التلفزيون، مع عدد كبير من الألعاب المختلفة ، الإلكترونية وغير الإلكترونية.",
+      "social": 5,
+      "religious": 4,
+      "financial": 4,
+      "moral": 5,
+      "psychological": 5
+    }
   }
 ]

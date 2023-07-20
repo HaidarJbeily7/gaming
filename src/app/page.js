@@ -60,7 +60,7 @@ export default function Home() {
               value={childAge}
               className="w-full h-10 pl-3 pr-10 text-base placeholder-gray-600 border rounded-lg appearance-none focus:shadow-outline"
             >
-              <option disabled value="7" >عمر الولد</option>
+              <option disabled >عمر الطفل</option>
               <option value="5">٥ سنوات</option>
               <option value="6">٦ سنوات</option>
               <option value="7">٧ سنوات</option>
